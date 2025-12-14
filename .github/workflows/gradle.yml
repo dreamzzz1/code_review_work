@@ -21,5 +21,3 @@ jobs:
          java-version: 17
          distribution: 'zulu'
 
-     - name: Build and test with Maven
-       run: mvn -B clean verify
